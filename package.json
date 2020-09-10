@@ -1,0 +1,24 @@
+{
+  "name": "hunny-brown",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "babel-plugin-styled-components": "^1.11.1",
+    "next": "9.5.2",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-swipeable-views": "^0.13.9"
+  },
+  "main": "index.js",
+  "repository": "https://Lattesoft@dev.azure.com/Lattesoft/Hunny%20Brown/_git/Hunny%20Brown",
+  "license": "MIT"
+}
